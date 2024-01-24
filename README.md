@@ -1,6 +1,9 @@
-# audit-verwaltung-wmc-projekt
+# audit-verwaltungs app für wmc
 
-ein projekt für das fach WMC in TypeScript, React und PayloadCMS als Backend
+Ein Projekt für das Fach WMC in TypeScript mit React. 
+PayloadCMS wird als Backend verwendet
+
+Für das Backend wird MongoDB benötigt und der Connection-String der DB muss in PayloadCMS reingegeben. 
 
 um das projekt zu starten:
 
@@ -8,9 +11,7 @@ um das projekt zu starten:
 cd server
 npm i
 npm run dev
-
 cd..
-
 cd client
 npm i
 npm run dev
